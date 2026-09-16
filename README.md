@@ -13,7 +13,7 @@ Building AI agent workflows with LangGraph &amp; Celery — multi-tenant SaaS, a
 
 <h3 align="center">Connect</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/usama-bin-arif" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="28" width="28" /></a>
+<a href="https://www.linkedin.com/in/usama-bin-arif" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
 &nbsp;&nbsp;
 <a href="https://x.com/usamawebdev" target="_blank"><img src="https://cdn.simpleicons.org/x/181717/ffffff" alt="X (@usamawebdev)" height="26" width="26" /></a>
 </p>
@@ -46,7 +46,7 @@ Building **Orkest** — a multi-tenant AI workflow platform where agent runs sto
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" alt="celery" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/celery/37814A" alt="celery" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
@@ -63,12 +63,16 @@ Building **Orkest** — a multi-tenant AI workflow platform where agent runs sto
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=usamam46-git&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=contribs,prs" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usamam46-git&theme=github_dark" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=usamam46-git&theme=react&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamam46-git&theme=react&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usamam46-git&theme=github_dark" alt="Top languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usamam46-git&theme=github_dark" alt="Most commit language" />
 </p>
 
 <p align="center">

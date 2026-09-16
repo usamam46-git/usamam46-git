@@ -54,10 +54,10 @@ Building **Orkest** — a multi-tenant AI workflow platform where agent runs sto
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
 </p>
 
-**AI / Agents:** LangGraph · LangChain · LangSmith · Celery task pipelines · RAG on pgvector · human-in-the-loop guardrails
-**Backend:** Node.js · Express · FastAPI · PostgreSQL (multi-tenancy with RLS) · MongoDB · Redis · REST APIs · Stripe webhooks
-**Frontend:** Next.js · React · TypeScript · Tailwind
-**ERP / Hardware:** Frappe/ERPNext v15 · Hikvision RTSP camera integration · face-recognition attendance
+**AI / Agents:** LangGraph · LangChain · LangSmith · Celery task pipelines · RAG on pgvector · human-in-the-loop guardrails  
+**Backend:** Node.js · Express · FastAPI · PostgreSQL (multi-tenancy with RLS) · MongoDB · Redis · REST APIs · Stripe webhooks  
+**Frontend:** Next.js · React · TypeScript · Tailwind  
+**ERP / Hardware:** Frappe/ERPNext v15 · Hikvision RTSP camera integration · face-recognition attendance  
 **Infra:** Docker · AWS (EC2, S3, Lambda) · GitHub Actions
 
 ---
